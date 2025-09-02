@@ -75,9 +75,10 @@
 
       <div class="relative">
         <img id="hero-img"
-             src="https://raw.githubusercontent.com/fatherdoss/diet-site/main/Fitness_02.jpg
-             alt="Диетолог Екатерина — здоровый образ жизни"
-             class="w-full rounded-3xl shadow-2xl object-cover aspect-[4/3]">
+     src="https://raw.githubusercontent.com/fatherdoss/diet-site/main/Fitness_02.jpg"
+     alt="Фитнес-зал с видом на море"
+     class="w-full rounded-3xl shadow-2xl object-cover aspect-[4/3]">
+
         <div class="absolute -bottom-5 -left-5 bg-white rounded-2xl shadow-xl p-4 hidden sm:flex flex-col gap-1">
           <span class="text-xs uppercase text-slate-500">ОНЛАЙН-СОПРОВОЖДЕНИЕ</span>
           <span class="text-lg font-bold">Старт за 24 часа</span>
