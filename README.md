@@ -75,7 +75,7 @@
 
       <div class="relative">
         <img id="hero-img"
-             src=https://github.com/fatherdoss/diet-site/blob/main/Fitness_02.jpg
+             src=Fitness_02.jpg
              alt="Диетолог Екатерина — здоровый образ жизни"
              class="w-full rounded-3xl shadow-2xl object-cover aspect-[4/3]">
         <div class="absolute -bottom-5 -left-5 bg-white rounded-2xl shadow-xl p-4 hidden sm:flex flex-col gap-1">
